@@ -16,5 +16,5 @@ The sale data is analysed based on country, region, and market, and Power BI is 
 * The sale of products and profits earned is maximum in the United states. 
 * The countries charging higher shipping costs are selling fewer products and earning low profits
 * For every market, the number of products shipped had been increasing from 2011 to 2014.
-
+* The percentage of shipping cost varies with the shipping mode and it is greater for standard class and almost same for the second and first class which is 20%.
 
